@@ -3,5 +3,6 @@
 This page:
 https://testxico.github.io/INDEX/
 
-[COURSES] (./COURSES/README.md)
+[COURSES](./COURSES/README.md)
+
 
