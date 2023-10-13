@@ -3,9 +3,5 @@
 This page:
 https://testxico.github.io/INDEX/
 
+[COURSES] (./COURSES/README.md)
 
-Cypress:
-- https://learn.cypress.io/#courses
-- ✔️ https://learn.cypress.io/testing-your-first-application/how-to-test-user-journeys
-- 👷‍♀️ https://learn.cypress.io/testing-foundations
-- 
